@@ -4,3 +4,9 @@ Ferramenta: Betoneira
 Hora e data: 2026-01-18 09:11:48
 Pego: Sim
 ------------------------------
+Cliente: Flavio Silva
+Endereço: Rua 123
+Ferramenta: Betoneira
+Hora e data: 2026-01-18 09:12:14
+Pego: Sim
+------------------------------
